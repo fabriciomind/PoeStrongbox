@@ -2,9 +2,9 @@
   "defaultEnv": "local",
   "local": {
     "driver": "mysql",
-    "user": "<username>",
-    "password": "<password>",
-    "host": "localhost",
+    "user": "strongbox",
+    "password": "5tr0ng80x",
+    "host": "mysql",
     "database": "migrations",
     "multipleStatements": true
   },
